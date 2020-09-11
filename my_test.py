@@ -1,7 +1,7 @@
-from my_code import inc
+from my_code import find_gcf
 
 
-def test_inc():
-    assert 5 == inc(4)
-    assert 1 == inc(0)
-    assert 0 == inc(-1)
+def test_find_gcf():
+    assert 5 == find_gcf(10,5)
+    assert 3 == find_gcf(6,9)
+    assert 6 == find_gcf(12, 66)
