@@ -1,7 +1,7 @@
 # Greatest common factor
 
 ## Problem Description
-In this assignment, you will make a function to determine the greatest commo factor between two numbers. There are many ways to do this. The important thing is that yur function returns the "GCF".
+In this assignment, you will make a function to determine the greatest common factor between two numbers. There are many ways to do this. The important thing is that yur function returns the "GCF".
 
 
 ## Example
@@ -23,6 +23,5 @@ gcf = 2
 * There is a print statement there already. Feel free to change the numbers. You can also copy and paste more of them (and change those numbers) to check multiple combinations at once.
 * When you are happy with your code, comment the print(s) out and use the `input()` statements below them to prompt the user for values.
 * Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
+* Test your code with `pytest`
 
