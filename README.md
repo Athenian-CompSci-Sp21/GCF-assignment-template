@@ -1,7 +1,7 @@
 # Greatest common factor
 
 ## Problem Description
-In this assignment, you will make a function to determine the greatest common factor between two numbers. There are many ways to do this. The important thing is that yur function returns the "GCF".
+In this assignment, you will make a function to determine the greatest common factor between two numbers. There are many ways to do this. The important thing is that your function returns the "GCF".
 
 
 ## Example
